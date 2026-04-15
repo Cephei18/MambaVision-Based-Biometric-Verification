@@ -127,11 +127,11 @@ python attack_similarity.py
 
 ### Loss Curve
 
-![Loss Curve](docs/plots/loss_curve.png)
+![Loss Curve](docs/plots/train_val_loss_curve.png)
 
 ### Validation Accuracy Curve
 
-![Accuracy Curve](docs/plots/accuracy_curve.png)
+![Accuracy Curve](docs/plots/val_accuracy_curve.png)
 
 ### Similarity Comparison
 
